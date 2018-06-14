@@ -1,0 +1,32 @@
+/*
+ Theme Name:   Storefront Child Theme
+ Theme URI:    https://awmike.wpengine.com/storefront-child/
+ Description:  Child theme from storefront
+ Author:       Mike Apicella
+ Template:     storefront
+ Version:      2.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  storefront-child
+*/
+
+body.woocommerce #primary { width: 100%; }
+
+.site-branding {
+    width: fit-content;
+    float:left;
+}
+
+.menu-cgk-menu {
+    float: right;
+    display: inline-block;
+    vertical-align: middle;
+    
+} 
+
+.menu-item {
+    margin-left: 25px;
+    margin-right: 25px;
+    display: inline;
+}
