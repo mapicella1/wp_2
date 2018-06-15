@@ -16,17 +16,24 @@ body.woocommerce #primary { width: 100%; }
 .site-branding {
     width: fit-content;
     float:left;
+    padding-left: 5%;
 }
 
 .menu-cgk-menu {
     float: right;
     display: inline-block;
     vertical-align: middle;
-    
 } 
 
 .menu-item {
     margin-left: 25px;
     margin-right: 25px;
     display: inline;
+}
+
+.menu-cgk-menu-container {
+    margin-left: 100px;
+
+    padding-top: 5%;
+    
 }
