@@ -29,3 +29,5 @@ Servant Leadership
 <li>Place the needs of others before self</li>
 <li>Focus on the growth and development of people</li>
 <li>Adopt a leadership paradigm of service over power</li>
+
+<?php echo do_shortcode( '[contact-form-7 id="88" title="Contact form 1"]' ); ?>
